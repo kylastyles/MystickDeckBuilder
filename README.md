@@ -4,7 +4,7 @@ Mystick Domination was a trading card game from the early 2000's. This software 
 ### Run
 Create a virtual environment and import the requirements file:
 ```commandline
-pip3 import -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 From a terminal set to the root of the project:
